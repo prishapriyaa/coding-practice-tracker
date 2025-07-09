@@ -1,0 +1,16 @@
+
+====================
+🕒 Run at: 2025-07-07T23:23:25.574288900
+Received 3 arguments:
+args[0]: 'prisha'
+args[1]: 'leetcode'
+args[2]: 'gfg'
+❌ Insufficient args!
+
+====================
+🕒 Run at: 2025-07-07T23:32:13.130811200
+Received 3 arguments:
+args[0]: 'prishaa'
+args[1]: 'leetcode'
+args[2]: 'gfg'
+❌ Insufficient args!

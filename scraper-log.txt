@@ -1,0 +1,8 @@
+
+====================
+🕒 Run at: 2025-07-07T23:37:02.424432400
+Received 3 arguments:
+args[0]: 'prishaa'
+args[1]: 'prishapriya'
+args[2]: 'pprishajo3y'
+❌ Insufficient args!
